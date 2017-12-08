@@ -1,9 +1,7 @@
 # Ssh access
------------------------------
 Below instructions explain how allow connect in server via ssh external host with private and public key (rsa cryptosystem).
 
 # Usage
------------------------------
 
 ### **In external host:** run ssh-keygen (Unix utility that is used to generate, manage, and convert authentication keys for ssh authentication).
 ```
